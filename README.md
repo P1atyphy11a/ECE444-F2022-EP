@@ -1,6 +1,17 @@
 This repo is a clone of https://github.com/ECE444-2022Fall/Assignment_1_starter_template
 Haoyu Li
 
+# Activity 2
+![Screenshot 2022-10-05 123220](https://user-images.githubusercontent.com/37389868/194130562-60717ae4-c6fb-4284-9271-c3a0c4eb2724.png)
+
+# Activity 3
+![Screenshot 2022-10-05 131004](https://user-images.githubusercontent.com/37389868/194130640-d7008080-ca98-4a2a-a563-4f8eccc73d8a.png)
+
+# Activity 4
+![Screenshot 2022-10-05 132804](https://user-images.githubusercontent.com/37389868/194130645-65ebea2b-a51c-4b17-9a5f-bb8fa6128142.png)
+
+![Screenshot 2022-10-05 132751](https://user-images.githubusercontent.com/37389868/194130634-122f37a5-d31e-46c3-a495-44dde2f2ede9.png)
+
 # Education_Pathways
 
 This is a modified version of the previous Assignment1 template.
